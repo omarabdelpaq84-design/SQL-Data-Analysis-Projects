@@ -1,0 +1,22 @@
+--Get Data
+--Get Data Size
+--Get Sample of Data
+--Item Fat Content Values
+--Item Fat Content Column Cleaning
+--Check Value (Cleaning)
+--Regular percente to Low Fat
+--Count of Null Values in Item Weight Column
+--AVG Item Weight Column
+--Handel Missing Values in Item Weight Column
+--Check extance of missing values
+--Get Look of Data
+--Total Sales
+--Total Sales When Item Fat Content = Low Fat
+--Total Sales When Item Fat Content
+Which one of these is more Profitable
+--Average Sales
+--Average Sales in 2022
+--Item Counts
+Sold Item Counts in 2022
+--Average Rating
+All Together (For Each Categorical Column)
